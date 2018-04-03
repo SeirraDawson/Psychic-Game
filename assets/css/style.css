@@ -1,7 +1,7 @@
 body, html {
     background-image: url('./assets/images/ouija-board.jpg');
     background-size: 100%;
-    color: white;
+    color: rgb(224, 40, 200);
 }
 
 .container {
@@ -29,7 +29,7 @@ img {
 
 
 h1 {
-    color: white;
+    color: rgb(224, 40, 200);
     font-family: 'Coming Soon', cursive, 'Times New Roman', Times, serif;
     font-size: 55px;
     text-align: center;
@@ -39,17 +39,20 @@ h1 {
 h4 {
     font-family: 'Coming Soon', cursive, 'Times New Roman', Times, serif;
     font-size: 30px;
+    color: rgb(224, 40, 200);
 }
 
 h5 {
     font-family: 'Coming Soon', cursive, 'Times New Roman', Times, serif;
     font-size: 25px;
+    color: rgb(224, 40, 200);
 
 }
 
 p {
     font-family: 'Coming Soon', cursive, 'Times New Roman', Times, serif;
     font-size: 15px;
+    color: rgb(224, 40, 200);
 }
 
 .footer {
@@ -57,10 +60,11 @@ p {
     position: absolute;
     height: 25px;
     clear:both;
-    color: white;
+    color: rgb(224, 40, 200);
     text-align: center;
     margin-top: 583px;
     margin-left: 500px;
+    color: rgb(224, 40, 200);
 }
 
 /*  font-family: 'Bevan', cursive;
