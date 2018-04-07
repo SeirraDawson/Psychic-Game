@@ -1,19 +1,19 @@
 body, html {
     background-image: url('./assets/images/ouija-board.jpg');
     background-size: 100%;
-    color: rgb(224, 40, 200);
+    color: white;
 }
 
 .container {
     position: absolute;
-    top: 8px;
+    top: 20px;
     right: 16px;
     height: 100%;
 }
 
 .carousel-caption {
     margin-right: 35px;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 
 img {
@@ -29,42 +29,41 @@ img {
 
 
 h1 {
-    color: rgb(224, 40, 200);
     font-family: 'Coming Soon', cursive, 'Times New Roman', Times, serif;
     font-size: 55px;
     text-align: center;
     margin-bottom: 35px;
+    color: rgb(168, 63, 163);
 }
 
 h4 {
     font-family: 'Coming Soon', cursive, 'Times New Roman', Times, serif;
     font-size: 30px;
-    color: rgb(224, 40, 200);
+    color: rgb(168, 63, 163);
 }
 
 h5 {
     font-family: 'Coming Soon', cursive, 'Times New Roman', Times, serif;
     font-size: 25px;
-    color: rgb(224, 40, 200);
+    color: rgb(168, 63, 163);
 
 }
 
 p {
     font-family: 'Coming Soon', cursive, 'Times New Roman', Times, serif;
     font-size: 15px;
-    color: rgb(224, 40, 200);
 }
 
 .footer {
     font-family: 'Coming Soon', cursive, 'Times New Roman', Times, serif;
     position: absolute;
+    font-size: 35px;
     height: 25px;
     clear:both;
-    color: rgb(224, 40, 200);
+    color: rgb(168, 63, 163);
     text-align: center;
     margin-top: 583px;
-    margin-left: 500px;
-    color: rgb(224, 40, 200);
+    margin-left: 570px;
 }
 
 /*  font-family: 'Bevan', cursive;
